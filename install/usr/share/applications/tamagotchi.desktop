@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Tamagotchi
+Name[de]=Tamagotchi
+Comment=Virtuelles Haustier
+Comment[de]=Virtuelles Haustier
+Exec=/usr/share/tamagotchi/./tamagotchi
+Icon=tamagotchi
+Terminal=true
+Type=Application
+Categories=Meine Programme;
+StartupNotify=false
+Name[de_DE]=Tamagotchi

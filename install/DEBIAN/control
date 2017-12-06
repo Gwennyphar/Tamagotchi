@@ -1,0 +1,10 @@
+Package: Tamagotchi
+Version: 1.2-1ubuntu1
+Section: Meine Programme
+Priority: extra
+Architecture: all
+Depends:
+Installed-Size: 8
+Maintainer: Nico Anders <nicoanders@freemail.de>
+Description: Virtuelles Haustier
+
